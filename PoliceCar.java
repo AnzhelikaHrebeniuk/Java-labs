@@ -8,3 +8,4 @@ public class PoliceCar extends Car<Policeman>{
         super(busy, seats);
     }
 }
+
