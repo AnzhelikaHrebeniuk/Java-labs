@@ -8,3 +8,4 @@ public class Taxi extends Car{
         super(busy, seats);
     }
 }
+
