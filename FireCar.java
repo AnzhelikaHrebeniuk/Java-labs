@@ -8,3 +8,4 @@ public class FireCar extends Car<Fireman>{
         super(busy, seats);
     }
 }
+
